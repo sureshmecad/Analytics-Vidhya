@@ -3,7 +3,7 @@ Approach to "Analytics Vidhya JanataHack Demand Forecasting"
 
 Hosted at: https://datahack.analyticsvidhya.com/contest/janatahack-demand-forecasting/#ProblemStatement
 
-Rank: 1 from 13,287 registered participant.
+Rank: 151 from 13314 registered participant.
 
 Solution available in jupyter notebook form.
 
